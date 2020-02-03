@@ -1,0 +1,19 @@
+.container-fluid{
+background-color: gainsboro;
+    height: 100vh;
+}
+h4{
+    text-align: center !important;
+    color:#f4a6e1 !important;
+    font-size: 25px !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-size: 16px !important;
+    color:#f4a6e1 !important;
+}
+button{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-size: 16px !important;
+}
